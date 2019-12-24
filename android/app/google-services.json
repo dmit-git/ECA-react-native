@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1083676290781",
+    "firebase_url": "https://eca-notifications-messaging.firebaseio.com",
+    "project_id": "eca-notifications-messaging",
+    "storage_bucket": "eca-notifications-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083676290781:android:ac5f9ec17a6bca72",
+        "android_client_info": {
+          "package_name": "com.blueprintnyc.bluebirdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083676290781-42svs2p7bqku9la1l31u7nm81sir3la8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nTx90nRNjnxV7R2qrfDLzauZHvlLx_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083676290781-42svs2p7bqku9la1l31u7nm81sir3la8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083676290781-b6vm4j1sm4enp3d1clh7nhkqspmf29cg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blueprintnyc.bluebirdapp",
+                "app_store_id": "1461140014"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083676290781:android:7cbfaea3bc0697d4",
+        "android_client_info": {
+          "package_name": "com.nativeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083676290781-42svs2p7bqku9la1l31u7nm81sir3la8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nTx90nRNjnxV7R2qrfDLzauZHvlLx_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083676290781-42svs2p7bqku9la1l31u7nm81sir3la8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083676290781-b6vm4j1sm4enp3d1clh7nhkqspmf29cg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blueprintnyc.bluebirdapp",
+                "app_store_id": "1461140014"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
