@@ -36,7 +36,7 @@
     "native-base": "^2.13.4",
     "react": "16.8.3",
     "react-apollo": "2.2.4",
-    "react-native": "^0.60.4",
+    "react-native": "^0.62.3",
     "react-native-base64": "^0.0.2",
     "react-native-calendars": "^1.21.0",
     "react-native-camera": "^2.6.0",
