@@ -40,7 +40,7 @@
     "react-native-base64": "^0.0.2",
     "react-native-calendars": "^1.21.0",
     "react-native-camera": "^2.6.0",
-    "react-native-code-push": "^5.6.1",
+    "react-native-code-push": "^5.7.0",
     "react-native-color-matrix-image-filters": "^5.2.0",
     "react-native-contacts": "^5.0.1",
     "react-native-device-info": "2.1.2",
