@@ -2320,6 +2320,13 @@ compression@^1.7.1:
     safe-buffer "5.1.2"
     vary "~1.1.2"
 
+concat-color-matrices@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/concat-color-matrices/-/concat-color-matrices-1.0.0.tgz#7d77baa4148264806d4318d9a2378e7dec4bc413"
+  integrity sha512-K0IMtl4m9LcHg4vVFb40Txmie/GwCJBkquGSn6wtA9yIcszzFZgGc6co4sSnjFdqeJAv+q2LrCHMUSb2GHAChA==
+  dependencies:
+    invariant "^2.2.4"
+
 concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
@@ -6714,9 +6721,9 @@ qs@^6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^6.1.0:
   version "6.4.2"
@@ -6848,6 +6855,15 @@ react-native-code-push@^5.6.1:
     plist "3.0.1"
     semver "^5.6.0"
     xcode "1.0.0"
+
+react-native-color-matrix-image-filters@^5.2.0:
+  version "5.2.14"
+  resolved "https://registry.yarnpkg.com/react-native-color-matrix-image-filters/-/react-native-color-matrix-image-filters-5.2.14.tgz#480e71279cea7936db6b7c8c44fb26863aba2774"
+  integrity sha512-j3lu5SXEONvQb2JaB7E8AaMJGvslNd8x4YncYMzyVpCJFyl/BN8/90YT5hDtOx4ee5Eogs9pIr6A9fqngryR8g==
+  dependencies:
+    concat-color-matrices "^1.0.0"
+    rn-color-matrices "^4.1.0"
+    ts-tiny-invariant "^1.0.5"
 
 react-native-communications@2.2.1:
   version "2.2.1"
@@ -7587,6 +7603,13 @@ rimraf@~2.2.6:
   version "2.2.8"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
   integrity sha1-5Dm+Kq7jJzIZUnMPmaiSnk/FBYI=
+
+rn-color-matrices@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/rn-color-matrices/-/rn-color-matrices-4.1.0.tgz#9ac5ce3d7daaf33d336b877508649469cb39f8a5"
+  integrity sha512-a8++z3Zi4GhA0oWwKS3etdrVuVQ2q/ByTMh6lMxo+vaSv3SRSSg5SzpZk65GS0NCAqMhFT8WSvgSgNhO/F+xag==
+  dependencies:
+    clamp "^1.0.1"
 
 rsvp@^4.8.4:
   version "4.8.4"
@@ -8446,6 +8469,11 @@ ts-invariant@^0.3.2:
   integrity sha512-UReOKsrJFGC9tUblgSRWo+BsVNbEd77Cl6WiV/XpMlkifXwNIJbknViCucHvVZkXSC/mcWeRnIGdY7uprcwvdQ==
   dependencies:
     tslib "^1.9.3"
+
+ts-tiny-invariant@^1.0.5:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/ts-tiny-invariant/-/ts-tiny-invariant-1.0.7.tgz#438ec6ce0456eac76df86c180f29e8165d4a17f3"
+  integrity sha512-nCA2qq7kBlpYXIr9aaVn61Q37wYLOAsBYWFinBT/vF/pzuLVpaFFJJL8moYRBrifI2YXwWSV3XROUDb1tkpVoA==
 
 tslib@^1.9.0:
   version "1.10.0"
